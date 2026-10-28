@@ -1,0 +1,6 @@
+{
+  "name": "Freight Scroll Hero",
+  "description": "Scroll-driven aerial freight train hero experience with real-time video scrubbing and responsive typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
